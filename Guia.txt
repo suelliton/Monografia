@@ -1,6 +1,0 @@
-falar dos métodos de calculo de crescmento em alface > AJUSTE DE MODELOS DE CRESCIMENTO DA ALFACE (Lactuca sativa L.) CULTIVADA EM SISTEMA HIDROPÔNICO E ESTIMATIVA DA VARIAÇÃO DA CONDUTIVIDADE ELÉTRICA DA SOLUÇÃO NUTRITIVA.pdf14/75
-
-pesquisar sobre esses modelos
-O crescimento da alface foi modelado por meio dos modelos
-expolinear, logístico e Gompertz usando como variáveis independentes dias após o
-transplantio (DAT), graus-dia (GD) e graus-dia efetivo (GDE).
